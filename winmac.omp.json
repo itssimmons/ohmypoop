@@ -1,0 +1,84 @@
+{
+	"final_space": true,
+	"blocks": [
+		{
+			"type": "prompt",
+			"alignment": "left",
+			"segments": [
+				{
+					"type": "session",
+					"style": "plain",
+					"foreground": "#999999"
+				},
+				{
+					"type": "path",
+					"style": "plain",
+					"foreground": "#CE9B86",
+					"properties": {
+						"prefix": "<#FFF>in </>",
+						"style": "full"
+					}
+				},
+				{
+					"type": "root",
+					"style": "plain",
+					"foreground": "#BF616A",
+					"properties": {
+						"prefix": "",
+						"root_icon": "雷"
+					}
+				}
+			]
+		},
+		{
+			"type": "prompt",
+			"alignment": "left",
+			"newline": true,
+			"segments": [
+				{
+					"type": "git",
+					"style": "plain",
+					"foreground": "#CE9B86",
+					"properties": {
+						"branch_icon": "",
+						"display_status": false
+					}
+				},
+				{
+					"type": "text",
+					"style": "plain",
+					"foreground": "#9FCCE3",
+					"properties": {
+						"prefix": "$[",
+						"text": "",
+						"postfix": ""
+					}
+				}
+			]
+		},
+		{
+			"type": "rprompt",
+			"alignment": "right",
+			"segments": [
+				{
+					"type": "text",
+					"style": "plain",
+					"foreground": "#9FCCE3",
+					"properties": {
+						"prefix": "",
+						"text": "",
+						"postfix": "]"
+					}
+				},
+				{
+					"type": "time",
+					"style": "plain",
+					"foreground": "#9FCCE3",
+					"properties": {
+						"time_format": "15:04"
+					}
+				}
+			]
+		}
+	]
+}
