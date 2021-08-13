@@ -8,12 +8,12 @@
 				{
 					"type": "session",
 					"style": "plain",
-					"foreground": "#999999"
+					"foreground": "#6D6D6D"
 				},
 				{
 					"type": "path",
 					"style": "plain",
-					"foreground": "#CE9B86",
+					"foreground": "#F9F1A5",
 					"properties": {
 						"prefix": "<#FFF>in </>",
 						"style": "full"
@@ -38,7 +38,7 @@
 				{
 					"type": "git",
 					"style": "plain",
-					"foreground": "#CE9B86",
+					"foreground": "#3A3DDD",
 					"properties": {
 						"branch_icon": "",
 						"display_status": false
@@ -47,7 +47,7 @@
 				{
 					"type": "text",
 					"style": "plain",
-					"foreground": "#9FCCE3",
+					"foreground": "#3A96DD",
 					"properties": {
 						"prefix": "$[",
 						"text": "",
@@ -63,7 +63,7 @@
 				{
 					"type": "text",
 					"style": "plain",
-					"foreground": "#9FCCE3",
+					"foreground": "#3A96DD",
 					"properties": {
 						"prefix": "",
 						"text": "",
@@ -73,7 +73,7 @@
 				{
 					"type": "time",
 					"style": "plain",
-					"foreground": "#9FCCE3",
+					"foreground": "#3A96DD",
 					"properties": {
 						"time_format": "15:04"
 					}
