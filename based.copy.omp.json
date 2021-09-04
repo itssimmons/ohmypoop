@@ -35,8 +35,7 @@
 			]
 		},
 		{
-			"type": "prompt",
-			"alignment": "right",
+			"type": "rprompt",
 			"segments": [
 				{
 					"type": "git",
