@@ -1,5 +1,5 @@
-# winmac.ps1
-Oh-My-Posh simple theme
+# Powershell Themes >_
+Two Powershell themes
 
 ## Inspiration 💭
 *Based on this scheme*
